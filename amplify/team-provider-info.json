@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chromecomments-dev-163418-authRole",
+      "UnauthRoleArn": "arn:aws:iam::653339885034:role/amplify-chromecomments-dev-163418-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::653339885034:role/amplify-chromecomments-dev-163418-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-chromecomments-dev-163418-deployment",
+      "UnauthRoleName": "amplify-chromecomments-dev-163418-unauthRole",
+      "StackName": "amplify-chromecomments-dev-163418",
+      "StackId": "arn:aws:cloudformation:eu-north-1:653339885034:stack/amplify-chromecomments-dev-163418/8aed49a0-6199-11ec-9100-0a1244c68dd0",
+      "AmplifyAppId": "d3fgpcx5wgi2ps"
+    },
+    "categories": {
+      "auth": {
+        "chromecommentsb2c8f7d7": {}
+      }
+    }
+  }
+}
